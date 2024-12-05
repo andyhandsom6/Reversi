@@ -1,0 +1,25 @@
+﻿  源文件.cpp
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(128,25): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(139,27): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(199,25): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(259,53): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(259,53): warning C4267:         with
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(259,53): warning C4267:         [
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(259,53): warning C4267:             _Ty=int
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(259,53): warning C4267:         ]
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(269,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(290,51): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(290,51): warning C4267:         with
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(290,51): warning C4267:         [
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(290,51): warning C4267:             _Ty=int
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(290,51): warning C4267:         ]
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(315,26): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(322,69): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(351,27): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(377,33): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(382,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(386,32): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(389,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(406,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\源文件.cpp(431,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  黑白棋.vcxproj -> C:\Users\Lenovo\Desktop\desktop\1.学业\2. 大学\大一上\计算概论\大作业\黑白棋\x64\Debug\黑白棋.exe
